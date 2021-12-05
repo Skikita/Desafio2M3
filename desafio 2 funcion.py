@@ -20,3 +20,5 @@ def menor(una_lista_numeros):
 
 def mayor(una_lista_numeros):
     return max(una_lista_numeros)
+
+"Un comentario de la estudiante 2"
